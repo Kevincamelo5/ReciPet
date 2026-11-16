@@ -29,15 +29,23 @@ Para la consulta de recetas el entregar una fuente de busqueda de recetas distin
 
 ## Uso 
 
-### Visualizar las recetas más populares.
-### Realizar filtros de busqueda para encontrar alguna receta.
-### Buscar recetas especificas mediante palabras clave.
-### Guardar una receta.
-### Visualizar recetas guardadas.
-### Copiar listas de ingredientes en el portapapeles.
-### Calificar una receta.
-### Escribir una receta.
+### Para usuarios comunes.
+#### Visualizar las recetas más populares.
+#### Realizar filtros de busqueda para encontrar alguna receta.
+#### Buscar recetas especificas mediante palabras clave.
+#### Guardar una receta.
+#### Descartar recetas guardadas.
+#### Visualizar recetas guardadas.
+#### Copiar listas de ingredientes en el portapapeles.
+#### Calificar una receta.
+#### Reportar usuario o receta.
+#### Subir una nueva receta.
+#### Bajar una receta.
 
+### Para administradores.
+#### Eliminar una receta.
+#### Suspender usuarios.
+#### .
 
 ## Capturas_de_pantalla
 
