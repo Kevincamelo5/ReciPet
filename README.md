@@ -60,6 +60,7 @@ Para la consulta de recetas el entregar una fuente de busqueda de recetas distin
 ## Contribuir
 
 ## Licencia
+* free use yessicon
 
 ## Traslate
 
