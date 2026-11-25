@@ -31,9 +31,10 @@ Para la consulta de recetas el entregar una fuente de busqueda de recetas distin
 
 ### Requisitos previos
 
-- Node.js 22.12 o superior.
-- pnpm 10.33.2 o superior.
-
+- Node.js 22.12 o superior
+- pnpm 10.33.2 o superior
+- pnpm add motion
+- pnpm add @hugeicons/react @hugeicons/core-free-icons
 
 ## Uso 
 
