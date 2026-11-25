@@ -2,6 +2,10 @@ function Navbar() {
 
     return (
         <>
+            {/** navbar component focused to look the principal pages and filters from the app in the over are the pages, the icon
+         * off the app, and a search bar. Under the pages are the filters to search recipes in groups based in a relation of 
+         * elemnts.
+         */}
         </>
     )
 
