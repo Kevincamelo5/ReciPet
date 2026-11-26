@@ -1,3 +1,19 @@
+import React from "react";
+import icon from '../../assets/icon.svg';
+
+const items = [
+    {
+        id: 'home',
+        label: 'Reciper',
+        path: '/',
+        icon: (
+            <img src={icon} alt="icono de app">
+                <path d="M3 95" />
+            </img>
+        )
+    }
+]
+
 function Navbar() {
 
     return (
